@@ -27,6 +27,7 @@ This class will cover four major topics areas:
 1. Layout
 1. Transitions
 1. Preprocessors
+1. JavaScript 
 
 ## Competencies 
 
@@ -36,6 +37,8 @@ potential uses.
 1. Construct layout using Flex Box.
 1. Develop good CSS habits, including naming convention, organization, and other industry best practices.
 1. Design interesting and effective micro interactions.
+1. Write clientside JavaScript
+1. Create Single Page applications
 
 ## Lessons
 
@@ -79,9 +82,8 @@ potential uses.
 
 ## Projects 
 
-- Porfolio site
 - Micro interactions
-- 
+- Porfolio site
 
 ## Evaluations
 
