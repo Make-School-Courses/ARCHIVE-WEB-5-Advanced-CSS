@@ -19,6 +19,8 @@ The best applications are well designed, and CSS is at the
 heart of the design, it is the vehicle of delivering a
 great experience. 
 
+## Objectives 
+
 This class will cover four major topics areas: 
 
 1. Typography
@@ -26,14 +28,14 @@ This class will cover four major topics areas:
 1. Transitions
 1. Preprocessors
 
-## Competencies & Objectives 
+## Competencies 
 
-1. Recognize CSS selectors for 
+1. Recognize CSS selectors for any occasion using advanced selectors like: :before, :after, :nth-child, :first-child
 1. Compare and evaluate selectors for a wide variety of 
-potential uses
-1. Construct layout using Flex Box
-1. Develop good CSS habits
-1. Design interesting and effective micro interactions
+potential uses.
+1. Construct layout using Flex Box.
+1. Develop good CSS habits, including naming convention, organization, and other industry best practices.
+1. Design interesting and effective micro interactions.
 
 ## Lessons
 
@@ -49,18 +51,31 @@ potential uses
 - Class 3 - Position and Layout
   - Flex Box
   - CSS Position
-- Class 4 
+- Class 4 - Layout and Design 
+  - Discussion: Layout and design with typograhic grids
+  - Lab - CSS Grid
+- Class 5 - Advanced CSS Selectors part 1
+  - Discussion: Pseudo selectors
+  - Lab 
+- Class 6 - Motion and Interaction
+  - Dicsussion: What is motion and what kind of motion does CSS allow
   - Lab
-- Class 5 
+- Class 7 - Advanced CSS Preprocessors
+  - Discussion: SASS and LESS
+  - lab
+- Class 8 - Clientside JavaScript intro
+  - Discussion: What is clientside JavaScript, the syntax and rules
   - Lab
-- Class 6 Motion and Interaction
-  - CSS Transition
-- Class 7 
-- Class 8 
-- Class 9
-- Class 10 
-- Class 11
-- Class 12
+- Class 9 - jQuery 
+  - Discussion: What is jQuery and why would you use it? 
+  - Lab
+- Class 10 - Clientside templating
+  - Discussion: Why and when to use clientside templates. 
+  - Lab - Handlebars
+- Class 11 - Single Page Applications
+  - Lab
+- Class 12 - Review final projects 
+  - Lab
 
 ## Projects 
 
