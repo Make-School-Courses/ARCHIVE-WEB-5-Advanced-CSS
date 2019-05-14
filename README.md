@@ -1,4 +1,6 @@
-# WEB 5 - Advanced CSS
+# ARCHIVE - WEB 5 - Advanced CSS
+
+## NOTE: This repo is no longer maintained
 
 ## Perequisites 
 
